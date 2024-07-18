@@ -1,1 +1,3 @@
-# Ai_Impact
+This project aims to explore the impact of AI on salaries and workload in the tech industry. By leveraging a comprehensive dataset containing various attributes such as work year, experience level, job title, salary, AI impact, and workload ratio, we will perform an in-depth analysis to uncover trends and insights.
+
+The goal is to understand how AI influences salaries and workloads, identify key factors driving these changes, and build predictive models to forecast future trends. This project will showcase a combination of data cleaning, visualization, statistical analysis, and machine learning techniques.# Ai_Impact
